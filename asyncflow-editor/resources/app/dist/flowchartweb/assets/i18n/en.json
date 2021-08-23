@@ -1,0 +1,191 @@
+{
+    "chooseLanguage": {
+        "Chinese": "Chinese",
+        "English": "English",
+        "chooseLang": "language"
+    },
+    "beginPage": {
+        "openProject": "Open Project",
+        "createProject": "Create Project",
+        "recentProjects": "Recent Projects",
+        "noRecentProjects": "There are currently no recently used projects",
+        "welcome": "Welcome to "
+    },
+    "nodeLib": {
+        "widgets-lib": "Widgets Library",
+        "common-node": "Common",
+        "function-node": "Function",
+        "wait-node": "Wait",
+        "waitall-node": "Wait all",
+        "stop-node": "Stop",
+        "stop-flow-node": "Stop Flow"
+    },
+    "headerMenu": {
+        "file": "File",
+        "config": "Configuration",
+        "setting": "Settings",
+        "language": "Language",
+        "debug": "Debug",
+        "create": "New Project",
+        "open": "Open Project",
+        "projectAttribute": "Project Attribute",
+        "exportScreenshot": "Export Screenshot",
+        "eventManage": "Event Management",
+        "save": "Save",
+        "bug-report": "Bug report"
+    },
+    "canvasMenu": {
+        "undo": "Undo",
+        "redo": "Redo",
+        "delete": "Delete",
+        "cut": "Cut",
+        "copy": "Copy",
+        "paste": "Paste",
+        "add-childNode": "Add",
+        "change-node":"Switch",
+        "group": "Group",
+        "un-group":"Ungroup",
+        "curve": "Curve",
+        "polygonal-line": "Broken",
+        "straight-line": "Straight",
+        "execute": "Executed",
+        "success": "Succeeded",
+        "fail": "Failed",
+        "debug": "Debug",
+        "quick-debug": "Fast",
+        "generate": "Generate",
+        "generate-all": "Gen. All",
+        "save": "Save"
+    },
+    "projectPanel": {
+        "project": "Project",
+        "find": "Find FlowChart",
+        "create-folder": "Create Folder ",
+        "create-flowchart": "Create Flowchart",
+        "edit": "Edit",
+        "unfold": "Unfold",
+        "fold": "Fold",
+        "remove-folder": "Remove Folder",
+        "folder-information": "Folder Information",
+        "rename": "Rename",
+        "remove": "Remove"
+    },
+    "type": {
+        "type": "Type",
+        "add-type": "Add Type",
+        "edit-type": "Edit Type",
+        "edit-member": "Edit Member",
+        "name": "Name",
+        "description": "Description",
+        "member": "Member",
+        "prop": "prop",
+        "method": "method",
+        "length": "Length",
+        "operation": "Operation",
+        "delete": "Delete",
+        "add-member": "Add Member",
+        "add-para": "Add Parameter",
+        "input": "input"
+    },
+    "output": {
+        "output": "Output",
+        "find": "Find",
+        "解析完成": "Parsing complete",
+        "保存成功": "Successfully saved",
+        "生成代码遇到异常": "The generated code encountered an exception",
+        "选中节点中存在起始节点，不允许删除": "There is a starting node in the selected node, which cannot be deleted",
+        "运行时代码生成成功": "Run time code generated successfully",
+        "运行时代码生成失败": "Runtime code generation failed",
+        "Start节点已存在": "Start node already exists",
+        "创建根文件夹参数不完整": "Parameters are not complete when create root"
+    },
+    "canvas": {
+        "layout": "Layout",
+        "auto-layout": "Auto",
+        "manual-layout": "Manual",
+        "add-node": "Add node",
+        "node-type": "Node Type",
+        "copy": "Copy",
+        "paste": "Paste",
+        "cut": "Cut",
+        "delete": "Delete",
+        "group": "Group",
+        "un-group": "Ungroup",
+        "exit-group": "Exit Group",
+        "merge-group": "Merge Group",
+        "copy-group": "Copy Group",
+        "generate": "Generate",
+        "save": "Save",
+        "fast-debug": "Fast Debug",
+        "connection-type": "Connection Type",
+        "connection-style": "Connection Style",
+        "curve": "Curve",
+        "polygonal-line": "Broken Line",
+        "straight-line": "Straight Line",
+        "delete-line": "Remove Connection",
+        "add-group-notes": "Add Group Remarks",
+        "edit-group-notes": "Edit Group Remarks"
+    },
+    "chartProperty": {
+        "chart-property": "Chart Property",
+        "name": "Name",
+        "description": "Desc.",
+        "path": "Path",
+        "type": "Type",
+        "export": "Export",
+        "para-list": "Paras List",
+        "var-list": "Var List",
+        "add-para": "Add Parameter",
+        "isSubchart": "Is subchart"
+    },
+    "nodeProperty": {
+        "node-property": "Node Property",
+        "content": "Content",
+        "generate-code": "Generate Code",
+        "copy": "Copy"
+    },
+    "button": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "determine": "Determine"
+    },
+    "form": {
+        "required": "Required"
+    },
+    "eventsPanel": {
+        "event-manage": "Events Management",
+        "add-event": "Add Event",
+        "import-json": "Import from Json",
+        "register-class":"Register Class",
+        "delete": "Delete",
+        "edit": "Edit",
+        "choose": "Choose",
+        "delete-all": "Delete All"
+    },
+    "editEvent": {
+        "create-event": "Create Event",
+        "edit-event": "Edit Event",
+        "operation": "Operation",
+        "input": "please input",
+        "add-para": "Add Parameter",
+        "members": "Members"
+    },
+    "debug": {
+        "debug": "Debug",
+        "input-ip": "Please input IP or websocket address",
+        "port-range": "Port Range",
+        "chart-name": "Chart",
+        "object-name": "Object",
+        "father-flowchart": "Father Flowchart",
+        "port": "Port",
+        "operation": "Operation",
+        "start": "Start"
+    },
+    "node": {
+        "stop-node": "StopNode",
+        "stop-flow": "StopFlow",
+        "wait": "Wait",
+        "wait-all": "Wait All"
+    }
+
+}

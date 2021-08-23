@@ -1,0 +1,119 @@
+{
+    "Uid": "2",
+    "Name": "Global",
+    "Source": 2,
+    "Members": [
+        {
+            "Name": "time",
+            "Type": "Number",
+            "MemberType": 2,
+            "From": 0,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            }
+        },
+        {
+            "Name": "print",
+            "Type": "Void",
+            "MemberType": 2,
+            "From": 0,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": [
+                {
+                    "Name": "content",
+                    "Type": "String",
+                    "LenAltanative": true
+                }
+            ]
+        },
+        {
+            "Name": "return",
+            "Type": "Void",
+            "MemberType": 2,
+            "From": 3,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": [
+                {
+                    "Name": "result",
+                    "Type": "Any"
+                }
+            ]
+        },
+        {
+            "Name": "stop_flow",
+            "Type": "String",
+            "MemberType": 2,
+            "From": 3,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": [
+                {
+                    "Name": "nodeId",
+                    "Type": "String",
+                    "Count": -1
+                }
+            ]
+        },
+        {
+            "Name": "stop_node",
+            "Type": "String",
+            "MemberType": 2,
+            "From": 3,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": [
+                {
+                    "Name": "nodeId",
+                    "Type": "String",
+                    "Count": -1
+                }
+            ]
+        },
+        {
+            "Name": "wait",
+            "Type": "Void",
+            "MemberType": 2,
+            "From": 3,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": [
+                {
+                    "Name": "time",
+                    "Type": "Number"
+                }
+            ]
+        },
+        {
+            "Name": "wait_all",
+            "Type": "Void",
+            "MemberType": 2,
+            "From": 3,
+            "Code": {
+                "hasCode": false,
+                "language": null,
+                "code": ""
+            },
+            "Parameters": []
+        }
+    ],
+    "Inherits": []
+}

@@ -1,0 +1,189 @@
+{
+    "chooseLanguage": {
+        "Chinese": "中文",
+        "English": "英文",
+        "chooseLang": "语言"
+    },
+    "beginPage": {
+        "openProject": "打开项目",
+        "createProject": "新建项目",
+        "recentProjects": "最近使用的项目",
+        "noRecentProjects": "暂无最近使用项目",
+        "welcome": "欢迎来到"
+    },
+    "nodeLib": {
+        "widgets-lib": "控件库",
+        "common-node": "普通节点",
+        "function-node": "函数节点",
+        "wait-node": "等待节点",
+        "waitall-node": "等待全部",
+        "stop-node": "停止节点",
+        "stop-flow-node": "停止流程"
+    },
+    "headerMenu": {
+        "file": "文件",
+        "config": "配置",
+        "setting": "设置",
+        "language": "语言",
+        "debug": "调试",
+        "create": "新建",
+        "open": "打开",
+        "projectAttribute": "项目属性",
+        "exportScreenshot": "导出截图",
+        "eventManage": "事件管理",
+        "save": "保存",
+        "bug-report": "Bug反馈"
+    },
+    "canvasMenu": {
+        "undo": "回退",
+        "redo": "前进",
+        "delete": "删除",
+        "cut": "剪切",
+        "copy": "复制",
+        "paste": "粘贴",
+        "add-childNode": "加子节点",
+        "change-node":"更换节点",
+        "group": "组合",
+        "un-group":"解组",
+        "curve": "曲线",
+        "polygonal-line": "折线",
+        "straight-line": "直线",
+        "execute": "执行",
+        "success": "成功",
+        "fail": "失败",
+        "debug": "调试",
+        "quick-debug": "快速调试",
+        "generate": "生成",
+        "generate-all": "生成全部",
+        "save": "保存"
+    },
+    "projectPanel": {
+        "project": "工程",
+        "find": "查找流程图",
+        "create-folder": "新建文件夹",
+        "create-flowchart": "创建流程图",
+        "edit": "编辑",
+        "unfold": "展开",
+        "fold": "收起",
+        "remove-folder": "删除文件夹",
+        "folder-information": "文件夹信息",
+        "rename": "重命名",
+        "remove": "删除"
+    },
+    "type": {
+        "type": "类型",
+        "add-type": "新增类型",
+        "edit-type": "编辑类型",
+        "edit-member": "编辑成员",
+        "name": "名称",
+        "description": "描述",
+        "member": "成员",
+        "prop": "属性",
+        "method": "方法",
+        "length": "长度",
+        "operation": "操作",
+        "delete": "删除",
+        "add-member": "添加成员",
+        "add-para": "添加参数",
+        "input": "请输入"
+    },
+    "output": {
+        "output": "输出",
+        "find": "查找",
+        "解析完成": "解析完成",
+        "保存成功": "保存成功",
+        "生成代码遇到异常": "生成代码遇到异常",
+        "选中节点中存在起始节点，不允许删除": "选中节点中存在起始节点，不允许删除",
+        "运行时代码生成成功": "运行时代码生成成功",
+        "运行时代码生成失败": "运行时代码生成失败",
+        "Start节点已存在": "Start节点已存在",
+        "创建根文件夹参数不完整": "创建根文件夹参数不完整"
+    },
+    "canvas": {
+        "layout": "内部布局",
+        "auto-layout": "自动布局",
+        "manual-layout": "手动布局",
+        "add-node": "添加节点",
+        "copy": "复制",
+        "paste": "粘贴",
+        "cut": "剪切",
+        "delete": "删除",
+        "group": "生成分组",
+        "un-group": "取消分组",
+        "exit-group": "退出分组",
+        "merge-group": "合并分组",
+        "copy-group": "拷贝分组",
+        "generate": "生成",
+        "save": "保存",
+        "fast-debug": "快速调试",
+        "connection-type": "连线类型",
+        "connection-style": "连线样式",
+        "curve": "曲线",
+        "polygonal-line": "折线",
+        "straight-line": "直线",
+        "delete-line": "删除连线",
+        "add-group-notes": "添加批注",
+        "edit-group-notes": "编辑批注"
+    },
+    "chartProperty": {
+        "chart-property": "流程图属性",
+        "name": "名称",
+        "description": "描述",
+        "path": "路径",
+        "type": "类型",
+        "export": "导出",
+        "para-list": "入参列表",
+        "var-list": "变量列表",
+        "add-para": "添加参数",
+        "isSubchart": "是否子图"
+    },
+    "nodeProperty": {
+        "node-property": "节点属性",
+        "content": "内容",
+        "generate-code": "生成代码",
+        "copy": "复制"
+    },
+    "button": {
+        "cancel": "取消",
+        "save": "保存",
+        "determine": "确定"
+    },
+    "form": {
+        "required": "必填"
+    },
+    "eventsPanel": {
+        "event-manage": "事件管理",
+        "add-event": "添加事件",
+        "import-json": "从json导入",
+        "register-class":"注册类",
+        "delete": "删除",
+        "edit": "编辑",
+        "choose": "请选择",
+        "delete-all": "批量删除"
+    },
+    "editEvent": {
+        "create-event": "新建Event",
+        "edit-event": "编辑Event",
+        "operation": "操作",
+        "input": "请输入",
+        "add-para": "添加参数",
+        "members": "成员"
+    },
+    "debug": {
+        "debug": "调试",
+        "input-ip": "请输入IP 或 websocket address",
+        "port-range": "端口范围",
+        "chart-name": "Chart名称",
+        "object-name": "对象名称",
+        "father-flowchart": "父流程图",
+        "port": "通信端口",
+        "operation": "操作",
+        "start": "开始"
+    },
+    "node": {
+        "stop-node": "停止节点",
+        "stop-flow": "停止流程",
+        "wait": "等待",
+        "wait-all": "等待全部"
+    }
+}

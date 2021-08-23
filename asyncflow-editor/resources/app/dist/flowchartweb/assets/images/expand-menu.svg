@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="5" viewBox="0 0 8 5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d5d5d5;
+      }
+    </style>
+  </defs>
+  <path id="多边形_20" data-name="多边形 20" class="cls-1" d="M3.61.488a.5.5,0,0,1,.781,0l2.96,3.7A.5.5,0,0,1,6.96,5H1.04a.5.5,0,0,1-.39-.812Z" transform="translate(8 5) rotate(180)"/>
+</svg>
